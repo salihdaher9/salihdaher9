@@ -1,6 +1,6 @@
 # Hi, I'm Salih 👋
 
-**DevOps Engineer** | AWS · Kubernetes · Terraform · CI/CD | Open to DevOps roles
+**DevOps Engineer** | AWS · Kubernetes · Terraform · CI/CD | Open to DevOps /Automation/Cloude  roles
 
 ---
 
