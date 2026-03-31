@@ -24,6 +24,10 @@
 
 - [**Store Management API**](https://github.com/salihdaher9/Store_Managment_API) – **Node.js** REST API for inventory tracking and profit calculation with **JWT** auth. Containerized with **Docker** and deployed on Render with Cloudinary for media storage.
 
+- [**Seek Travel**]([https://github.com/salihdaher9/Store_Managment_API](https://github.com/salihdaher9/Seek-Travel
+)) – A full-stack hotel booking platform where users can browse and reserve hotel rooms or manage their own listings. Designed with a clean user interface and built for performance and usability.
+implemented with nodejs , javascript , mongodb 
+
 ---
 
 ## 🎓 Background
