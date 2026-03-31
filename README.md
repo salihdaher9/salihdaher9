@@ -22,10 +22,10 @@
 
 - [**Production DevOps Pipeline**](https://github.com/salihdaher9/Tellme-Devops-Project) – Full AWS platform with modular **Terraform**, **EKS**, and **Jenkins** CI/CD. Implements **GitOps** via ArgoCD, secrets management with ESO + AWS Secrets Manager, and observability with **Prometheus, EFK stack**, and HTTPS via cert-manager.
 
-- [**Store Management API**](https://github.com/salihdaher9/Store_Managment_API) – **Node.js** REST API for inventory tracking and profit calculation with **JWT** auth. Containerized with **Docker** and deployed on Render with Cloudinary for media storage.
+- [**Store Management API**](https://github.com/salihdaher9/Store_Managment_API) – **Node.js(express)** REST API for inventory tracking and profit calculation with **JWT** auth. Containerized with **Docker** and deployed on Render with Cloudinary for media storage.
 
 - [**Seek Travel**](https://github.com/salihdaher9/Seek-Travel) – A **FullStack** hotel booking platform where users can browse and reserve hotel rooms or manage their own listings. Designed with a clean user interface and built for performance and usability.
-implemented with Nodejs(express) , javascript , mongodb 
+implemented with **Nodejs(express)** , javascript , mongodb 
 
 ---
 
