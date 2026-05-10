@@ -1,6 +1,5 @@
 # Hi, I'm Salih 👋
 
-**DevOps/Backend Engineer** | AWS · Kubernetes · Terraform · CI/CD / NODEJS / MONGODB | Open to DevOps /Automation/Cloude  roles
 
 ---
 
