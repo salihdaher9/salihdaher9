@@ -21,6 +21,8 @@
 
 - [**Production DevOps Pipeline**](https://github.com/salihdaher9/Tellme-Devops-Project) – Full AWS platform with modular **Terraform**, **EKS**, and **Jenkins** CI/CD. Implements **GitOps** via ArgoCD, secrets management with ESO + AWS Secrets Manager, and observability with **Prometheus, EFK stack**, and HTTPS via cert-manager.
 
+- [**Hellio HR**](https://github.com/salihdaher9/Hellio-HR) – Full-stack HR automation project for ingesting candidate CVs and job descriptions, extracting structured data with AI, matching candidates to positions with embeddings, and answering HR questions through a SQL-first chat interface. The backend keeps AI steps inspectable, the database stores the important artifacts, and the UI exposes the main HR workflows clearly.
+
 - [**Store Management API**](https://github.com/salihdaher9/Store_Managment_API) – **Node.js(express)** REST API for inventory tracking and profit calculation with **JWT** auth. Containerized with **Docker** and deployed on Render with Cloudinary for media storage.
 
 - [**Seek Travel**](https://github.com/salihdaher9/Seek-Travel) – A **FullStack** hotel booking platform where users can browse and reserve hotel rooms or manage their own listings. Designed with a clean user interface and built for performance and usability.
@@ -39,5 +41,4 @@ implemented with **Nodejs(express)** , javascript , mongodb
 
 ## 🔧 Portfolio
 - [**My Portfolio**](https://salih-devops-portfolio.vercel.app/) 
-
 
