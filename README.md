@@ -25,7 +25,7 @@
 
 - [**Hellio HR**](https://github.com/salihdaher9/Hellio-HR) – **Full-stack AI HR automation platform** that ingests CVs and job descriptions, extracts structured data with **AWS Bedrock**, matches candidates to roles using **PostgreSQL/pgvector embeddings**, provides **SQL-grounded HR chat**, and includes a **human-reviewed email agent** for automated intake workflows.
 
-- [**LMS Platform**](https://github.com/salihdaher9/LMS_System) – Full-stack learning management system built with **React**, **Vite**, **Express**, **MongoDB**, **Docker Compose**, and **AWS S3/CloudFront**. Supports instructor course creation, lesson management, enrollment, role-based access control, server-side progress tracking, and protected video delivery with signed media sessions.
+- [**LMS Platform**](https://github.com/salihdaher9/LMS_System) – Full-stack learning management system built with **React**, **Vite**, **Express**, **MongoDB**, **Docker Compose**, and **AWS S3/CloudFront**. Supports instructor course creation, lesson management, enrollment, role-based access control, and protected video delivery with signed media sessions.
 
 - [**Store Management API**](https://github.com/salihdaher9/Store_Managment_API) – **Node.js(express)** REST API for inventory tracking and profit calculation with **JWT** auth. Containerized with **Docker** and deployed on Render with Cloudinary for media storage.
 
