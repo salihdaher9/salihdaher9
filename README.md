@@ -24,6 +24,8 @@
 
 - [**Hellio HR**](https://github.com/salihdaher9/Hellio-HR) – Full-stack HR automation project for ingesting candidate CVs and job descriptions, extracting structured data with AI, matching candidates to positions with embeddings, and answering HR questions through a SQL-first chat interface. The backend keeps AI steps inspectable, the database stores the important artifacts, and the UI exposes the main HR workflows clearly.
 
+- [**LMS Platform**](https://github.com/salihdaher9/LMS_System) – Full-stack learning management system built with **React**, **Vite**, **Express**, **MongoDB**, **Docker Compose**, and **AWS S3/CloudFront**. Supports instructor course creation, lesson management, enrollment, role-based access control, server-side progress tracking, and protected video delivery with signed media sessions.
+
 - [**Store Management API**](https://github.com/salihdaher9/Store_Managment_API) – **Node.js(express)** REST API for inventory tracking and profit calculation with **JWT** auth. Containerized with **Docker** and deployed on Render with Cloudinary for media storage.
 
 - [**Seek Travel**](https://github.com/salihdaher9/Seek-Travel) – A **FullStack** hotel booking platform where users can browse and reserve hotel rooms or manage their own listings. Designed with a clean user interface and built for performance and usability.
