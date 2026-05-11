@@ -23,7 +23,7 @@
 
 - [**Production DevOps Pipeline**](https://github.com/salihdaher9/Tellme-Devops-Project) – Full AWS platform with modular **Terraform**, **EKS**, and **Jenkins** CI/CD. Implements **GitOps** via ArgoCD, secrets management with ESO + AWS Secrets Manager, and observability with **Prometheus, EFK stack**, and HTTPS via cert-manager.
 
-- [**Hellio HR**](https://github.com/salihdaher9/Hellio-HR) – Full-stack HR automation project for ingesting candidate CVs and job descriptions, extracting structured data with AI, matching candidates to positions with embeddings, and answering HR questions through a SQL-first chat interface. The backend keeps AI steps inspectable, the database stores the important artifacts, and the UI exposes the main HR workflows clearly.
+- [**Hellio HR**](https://github.com/salihdaher9/Hellio-HR) – **Full-stack AI HR automation platform** that ingests **CVs** and **job descriptions**, extracts **structured data** with **AWS Bedrock**, matches candidates to roles using **PostgreSQL/pgvector embeddings**, provides **SQL-grounded HR chat**, and includes a **human-reviewed email agent** for automated intake workflows.
 
 - [**LMS Platform**](https://github.com/salihdaher9/LMS_System) – Full-stack learning management system built with **React**, **Vite**, **Express**, **MongoDB**, **Docker Compose**, and **AWS S3/CloudFront**. Supports instructor course creation, lesson management, enrollment, role-based access control, server-side progress tracking, and protected video delivery with signed media sessions.
 
